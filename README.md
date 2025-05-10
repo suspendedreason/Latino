@@ -8,6 +8,7 @@ _LATINO: A PASTORAL_ is part of a larger collection of Brazil-related works, wit
 - The São Paulo notebook
 - Photos taken by the author on his travels
 - The "Diane" voice memos (transcripts of which may be available )
+- Letter written to Anteros
 
 ## Audio
 
