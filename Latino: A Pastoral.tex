@@ -1,0 +1,92 @@
+\documentclass[oneside, 11pt, twocolumn]{book}
+\usepackage{verse}
+\usepackage[utf8]{inputenc}
+\usepackage{tipa}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{xfrac}
+
+\pagestyle{empty}
+\newcounter{secnum}
+\hyphenpenalty 10000  % No word-break
+\exhyphenpenalty 10000 % No word-break
+
+\newcommand{\secdiv}{
+	\vspace{1em}
+	\stepcounter{secnum}
+	\thesecnum
+	\vspace{1em}
+}
+
+\usepackage{aurical}
+\usepackage[T1]{fontenc}
+\usepackage{footmisc}
+
+% Redefine footnote font style to use Fontlukas
+\makeatletter % Rm separator line
+\renewcommand{\footnoterule}{}
+\renewcommand{\@makefntext}[1]{%
+  \hfill\parbox{0.8\columnwidth}{\raggedleft\Fontlukas\scriptsize\@thefnmark\ #1}%
+} % Rightaligned
+\renewcommand{\@makefnmark}{\textsuperscript{\Fontlukas\@thefnmark}}
+
+\begin{document}
+% \Fontamici % Disfluent ligatures & long-S
+\Fontlukas
+
+``Modern poetry claims to be a vision, that is to say, a knowledge of hidden, invisible realities. It is true that the poets of all times \& all places have said as much. But Homer, Virgil, or Dante insist that their poetry has to do with a revelation that comes from outside themselves: a god or demon speaks through their mouths... The modern poet declares that he is speaking in his own name: he extracts his visions from within himself. The disturbing disappearance of divine powers has coincided with the appearance of drugs as bestowers of the gift of poetic vision. The familiar demon, the muse, or the divine spirit have seen supplanted by laudanum, opium, hashish, \& more recently, Mexican drugs: peyote (mescaline) \& hallucinogenic mushrooms.'' \\
+\\
+\rightline{--Octavio Paz}
+
+\vspace{1em}
+\begin{verse}
+
+--Tropeiro, tropeiro, schlep your thoughts together. \\
+--Bring me something Oriental, something foreignclever.
+
+
+\twocolumn[
+	BRAZIL
+	\hfill
+	Dedicated to St. Ariel \& the author age 12.
+	\vspace{1em}
+]
+
+% \input{"emails/Non ducor, duco"}
+% No \secdiv since full-page PDF embed
+
+% \input{"chapters/Cities are a dark"}
+% No \secdiv since full-page image
+
+\secdiv
+
+\input{"locations/Where are you Child?"} 
+
+\newpage
+
+\input{"locations/Brazil/Brazil"}
+
+\newpage
+
+\input{"locations/California/California"}
+
+\input{"locations/Shoeprintheel"}
+
+Thus ends this alba
+
+Wherever you are I hope \\
+you're right in front \\ 
+with it: I mean, \\
+from this you \\
+really ought to \\
+feel loaned a \\
+really haughty \\
+stare for any \\
+thing around you \\
+boring or obnoxious; because the force of my demand that you be free of such is inalienably magical. \\
+LOVE \\
+Jeremy
+
+\end{verse}
+
+\end{document}
