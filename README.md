@@ -1,6 +1,6 @@
 # Context & Aspirations
 
-## Print
+## Text
 
 _LATINO: A PASTORAL_ is part of a larger collection of Brazil-related works, with which it might eventually be packaged as part of a printed collection:
 
@@ -9,6 +9,11 @@ _LATINO: A PASTORAL_ is part of a larger collection of Brazil-related works, wit
 - Photos taken by the author on his travels
 - The "Diane" voice memos (transcripts of which may be available )
 - Letter written to Anteros
+- Biografía: Abrão
+
+### Annotations
+
+<!-- Hard-to-resolve comments (a finished version of?) are kept in body/gitrepo... Obvious calls are kept but for the tougher call a record of indeterminacy/contingency alternate paths is kept -->
 
 ## Audio
 
@@ -26,3 +31,9 @@ Some recording notes:
 As for voices,
 
 - The "Childe" (i.e. "Where Are You?") sections have a distinct tone of voice.
+
+## The Wasteland
+
+_Latino_ is loosely structured to follow _The Wasteland_.
+
+Eliot's friendlysplendid chat, 'ohmelovelies' etc, an aspiration of _Latino_.
