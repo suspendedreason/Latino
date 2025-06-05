@@ -1,12 +1,16 @@
 # Overflow
 
-Zugunruhe
-Epicormic buds
-Freeks
-Labyrintime
+We were freeks.
+We were labrats in labyrintime.
+We were sufferers of zugunruhe.
+We were epicormic buds--
+Damage to the main trunk activated our waiting phototropism
+
 Shadown to Sunprise of a Solrisa
 
 For gain’o’grain they banner-band together
+
+Silent scroll. Window service. Framed existence.
 
 You creo, you creo, y hecho un hecho
 
@@ -35,7 +39,12 @@ Aztec ravers, PLURgirls, pulled myself away
 <!-- This needs to happen somewhere new, but is important part--somethingabout decadence of cities -- maybe in Rio? -->
 
 What doth it profit prophet,
-To proffer his fits?
+Thus in proffering his fits?
+
+Contemplative practice
+Puts us in a position
+To realize we do not occupy a position
+Of privileged episteme.\footnote{R. Stevens}
 
 My face was growing out to curls;
 It was a way to track time.
@@ -49,6 +58,21 @@ They called him the Shark
 Then Israel-Palestine \& I never saw him again
 
 Here is the church, here is the steeple; here is the door \& here are the people \\
+
+> be me  \\
+> be in hometown park \\
+> remember being kid again \\
+> fall to knees under eucalyptus \\
+> local thinks I'm overdosing, calls police \\
+> just having an emotion
+
+Talent is not the factor.
+Sight is not the factor.
+So many drop out: The whip sharp.
+She was smaht enagh for Hahvahd Yahd.
+What was it, melted wax o' faith?
+World gets em, \& by world mean I people?
+Silent tongues inside her temples?
 
 Hands like newly furled leaves of horse chestnut^[Hope Mirrlees]
 
@@ -67,19 +91,20 @@ What is this Master Plan?
 What need have I for a single declaration,
 For the encompassing label?
 
-The girls are Old Masters of brush & blush. Dark foundations through lightdusted overcoat. Now the perfume bottles. Whole carriage smell of bouquet. I felt myself traversing the curve of a Yerkes-Dodson while she spoke.
-
-Tiling in the icy interiors,
-In each room, the same furniture
-Conditioned on social class \& feed
+Fly from air to airspace,
+Cold kitchen tiles in icy interiors,
+The same furniture.
+Here a city center district
+Historied in theory, storiated porticos
+While windows glass the greatest fashions
+Here is the same luxury watch, seen in Vicenza and Florence
+Here is are the summer fits, the linen stripes, the knitted shirts
+With a weight, and hand-made feel, that made them all the rage, a wealthy signal gainst the contours of a Chinese cotton tshirt
+But which the factories have figured out how to fabricated en bulk
+And now seen on all the young men
+Of Western Europe.
 
 (In N Hemisphere) where a dogwood tree is losing its mind\footnote{T. Hoagland}
-
-Polystyrene
-Poly sirens
-Ply their styles—
-Renegotiate their terms
-Of social presence.
 
 ## Notes
 
