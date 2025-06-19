@@ -1,11 +1,5 @@
 # Overflow
 
-We were freeks.
-We were labrats in labyrintime.
-We were sufferers of zugunruhe.
-We were epicormic buds--
-Damage to the main trunk activated our waiting phototropism
-
 Shadown to Sunprise of a Solrisa
 
 For gain’o’grain they banner-band together
@@ -41,15 +35,21 @@ Aztec ravers, PLURgirls, pulled myself away
 What doth it profit prophet,
 Thus in proffering his fits?
 
+\& it's Me, the Mockingbird \\
+Up at dawn with morning dove \\
+To learn the songs of valleys \& to \\
+Sing an alba to my love.
+
 Contemplative practice
 Puts us in a position
-To realize we do not occupy a position
-Of privileged episteme.\footnote{R. Stevens}
+To realize we do not occupy
+A privileged position
+Of realizing.\footnote{R. Stevens}
 
 My face was growing out to curls;
 It was a way to track time.
 Shear everything above the neck
-And then don't cut again til back
+And leave untouched til home.
 
 We were homies-in-law
 We hung back, and let the girls talk
@@ -57,7 +57,13 @@ He studied colonies of the gut
 They called him the Shark
 Then Israel-Palestine \& I never saw him again
 
+Others art as latticescaff: to grow, not old but bold, & into blue.
+
 Here is the church, here is the steeple; here is the door \& here are the people \\
+
+Nightingales: <https://www.sciencedirect.com/science/article/pii/S0960982223008291>
+
+And the birds weave nests from fiber-optic cables
 
 > be me  \\
 > be in hometown park \\
@@ -105,6 +111,30 @@ And now seen on all the young men
 Of Western Europe.
 
 (In N Hemisphere) where a dogwood tree is losing its mind\footnote{T. Hoagland}
+
+How closely to attend to surfaces?
+To half-observe while elsewhere mind
+To gloss or give a closer look at grain
+To read the fine-print in a final contract
+
+Relative to each arrangements, others were much closer
+Or much further, easier to move to
+Certain outcomes probable or not
+Or more expensive, time as money
+
+Berlin's binary of freedom, plus or minus
+Useful Ludwig-ladder for escaping out
+Of cages fashioned by that notion, ``freedom''.
+For every action comes at cost, forecloses other vectors.
+And every power won precludes another way of being
+So that freedom to divorce rids us of right to bind ourselves to marriage.
+And as we are freed promiscuous, we are enslaved by competition.
+
+Schelling studied hockey helmets:
+Found that players were unfree to wear them
+For the social censure.
+Change the rules & players are freed
+Coordination's failure.
 
 ## Notes
 
