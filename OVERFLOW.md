@@ -74,6 +74,11 @@ For gain’o’grain they banner-band together
 
 The crystal cabinet of my mind, my microcosmos
 
+Whitman loafed \& floated, Adamic
+American baseball, omnibus drivers.
+Without the opera, he could never have written Leaves of Grass.
+He said, Lumber the writing with nothing, let it go as lightly as a bird flies in the air, or a fish swims in the sea.
+
 Silent scroll \& window service, framed existence Soda-fountain static, pins'n'needles, noisy mouthed feel.
 
 We'd been homies-in-law:
